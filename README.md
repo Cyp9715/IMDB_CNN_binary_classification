@@ -17,4 +17,4 @@ In fact, we don't need information about [STAR, USER ID, review TITLE],
 
 However [STAR, USER ID, review TITLE] are useful information.
 
-but I thought someone could be useful use, so they included it.
+so I thought someone could be useful use, so they included it.
