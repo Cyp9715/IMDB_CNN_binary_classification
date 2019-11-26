@@ -13,8 +13,8 @@ the data are organized as follows:
 
 **STAR | USER ID | REVIEW TITLE | REVIEW CONTENT**
 
-In fact, we don't need information about [Star, UserID, review table], 
+In fact, we don't need information about [STAR, USER ID, review TITLE], 
 
-However [STAR, USER ID, and review TITLE] are useful information.
+However [STAR, USER ID, review TITLE] are useful information.
 
 but I thought someone could be useful use, so they included it.
