@@ -30,9 +30,9 @@ only then can we objectify the classification of a movie.
 however, we do not currently have such clear information because we have not gone through the survey process.
 
 
-but
+### but
 
-personally think that the accuracy of the simple dichotomy is about 65-70 percent.
+I think that the accuracy of the simple binary classification is about 65-70 percent. (not objectively, it's just personal conjecture.) 
 
 
 
@@ -58,4 +58,13 @@ so I thought someone could be useful use, so included it.
 
 # 2. result data
 
+![1111](https://user-images.githubusercontent.com/16573620/71164302-1e786e00-2292-11ea-81d8-c8fc3cf3cd5d.png)
+
+The output is as shown above.
+
+And
+
+You can check the binary classification of the entire horror movie by watching the poster.
+
+The closer to 0%, the scarier (maybe include supernatural content) horror movie, and closer to 100%, the more cruel the horror movie.
 
