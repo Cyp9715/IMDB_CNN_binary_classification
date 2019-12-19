@@ -10,9 +10,9 @@ This Repo is binary classfication the movie, using IMDB review data
 
 There is no way to determine the accuracy of the classification.
 
-in horror movies, for example, it is too unrealistic to clearly distinguish one’s feelings, fears and cruelty. (objectively)
+in horror movies, for example, it is too unrealistic to clearly distinguish one’s feelings to fears and cruelty. (objectively)
 
-therefore, we have tried some customizations for deep learning, but there is no way to measure accuracy
+therefore, we have tried some customizations for deep learning, but that was pointless.
 
 
 It is nonsense in itself to conclude a particular movie with a particular category
@@ -21,9 +21,11 @@ if the category of comedy "Joker" (2019) is divided into "Black Comedy" and "Jus
 
 my personal view is definitely is "Black Comedy."
 
-but, may be some people who judge it as just 'Just Comedy.'
+but, may be some people judge it as 'Just Comedy.'
 
-therefore, giving such an objective definition requires a survey to determine whether the 'Joker' is perceived by countless people as being "Black Comedy" or "Comedy."
+therefore, to provide such an objective definition, 
+
+an survey is needed to determine whether a large number of people recognize 'joker' as 'black comedy' or 'comedy'.
 
 only then can objectify the classification of a movie.
 
