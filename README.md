@@ -3,6 +3,41 @@ IMDB 리뷰 데이터를 이용하여, 같은 장르의 영화를 이진분류�
 
 This Repo is binary classfication the movie, using IMDB review data
 
+
+
+
+# 0. there are a few precautions
+
+There is no way to determine the accuracy of the classification.
+
+in horror movies, for example, it is too unrealistic to clearly distinguish one’s feelings, fears and cruelty. (objectively)
+
+therefore, we have tried some customizations for deep learning, but there is no way to measure accuracy
+
+
+It is nonsense in itself to conclude a particular movie with a particular category
+
+if the category of comedy "Joker" (2019) is divided into "Black Comedy" and "Just Comedy."
+
+my personal view is definitely is "Black Comedy."
+
+but, may be some people who judge it as just 'Just Comedy.'
+
+Therefore, giving such an objective definition requires a survey to determine whether the film is perceived by countless people as being "Black Comedy" or "Comedy."
+
+only then can we objectify the classification of a movie.
+
+however, we do not currently have such clear information because we have not gone through the survey process.
+
+
+### but
+
+I think that the accuracy of the simple binary classification is about 65-70 percent. (not objectively, it's just personal conjecture.) 
+
+
+
+
+
 # 1. Required data.
 
 To use this code, you need the following review data:
@@ -18,3 +53,18 @@ in fact, we don't need information about [STAR, USER ID, review TITLE],
 however [STAR, USER ID, review TITLE] are useful information.
 
 so I thought someone could be useful use, so included it.
+
+
+
+# 2. result data
+
+![1111](https://user-images.githubusercontent.com/16573620/71164302-1e786e00-2292-11ea-81d8-c8fc3cf3cd5d.png)
+
+The output is as shown above.
+
+And
+
+You can check the binary classification of the entire horror movie by watching the poster.
+
+The closer to 0%, the scarier (maybe include supernatural content) horror movie, and closer to 100%, the more cruel the horror movie.
+
