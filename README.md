@@ -23,11 +23,14 @@ my personal view is definitely is "Black Comedy."
 
 but, may be some people who judge it as just 'Just Comedy.'
 
-Therefore, giving such an objective definition requires a survey to determine whether the film is perceived by countless people as being "Black Comedy" or "Comedy."
+therefore, giving such an objective definition requires a survey to determine whether the 'Joker' is perceived by countless people as being "Black Comedy" or "Comedy."
 
-only then can we objectify the classification of a movie.
+only then can objectify the classification of a movie.
 
-however, we do not currently have such clear information because we have not gone through the survey process.
+however, do not currently have such clear information because we have not gone through the survey process.
+
+#### In conclusion, unverified data is used in training sets, so accuracy cannot be measured.
+
 
 
 ### but
@@ -48,7 +51,7 @@ the data are organized as follows:
 
 **STAR | USER ID | REVIEW TITLE | REVIEW CONTENT**
 
-in fact, we don't need information about [STAR, USER ID, review TITLE], 
+in fact, I don't need information about [STAR, USER ID, review TITLE], 
 
 however [STAR, USER ID, review TITLE] are useful information.
 
@@ -68,7 +71,7 @@ You can check the binary classification of the entire horror movie by watching t
 
 The closer to 0%, the scarier (maybe include supernatural content) horror movie,
 
-and closer to 100%, the more cruel the horror movie, click on the image to view the image.
+and closer to 100%, the more cruel the horror movie, click on the image to view the video.
 
 [![주석 2019-12-19 205728](https://user-images.githubusercontent.com/16573620/71173636-951f6680-22a6-11ea-9563-c9056fe3dede.png)](https://www.youtube.com/watch?v=OTeKfsTBfqg)
 
