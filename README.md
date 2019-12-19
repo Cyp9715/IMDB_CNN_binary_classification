@@ -6,7 +6,7 @@ This Repo is binary classfication the movie, using IMDB review data
 
 
 
-# 0. there are a few precautions
+# 0. few precautions
 
 There is no way to determine the accuracy of the classification.
 
@@ -66,5 +66,9 @@ And
 
 You can check the binary classification of the entire horror movie by watching the poster.
 
-The closer to 0%, the scarier (maybe include supernatural content) horror movie, and closer to 100%, the more cruel the horror movie.
+The closer to 0%, the scarier (maybe include supernatural content) horror movie,
+
+and closer to 100%, the more cruel the horror movie, click on the image to view the image.
+
+[![주석 2019-12-19 205728](https://user-images.githubusercontent.com/16573620/71173636-951f6680-22a6-11ea-9563-c9056fe3dede.png)](https://www.youtube.com/watch?v=OTeKfsTBfqg)
 
