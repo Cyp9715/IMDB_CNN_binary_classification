@@ -15,7 +15,7 @@ in horror movies, for example, it is too unrealistic to clearly distinguish oneâ
 therefore, we have tried some customizations for deep learning, but that was pointless.
 
 
-It is nonsense in itself to conclude a particular movie with a particular category
+It is nonsense in itself to conclude a particular movie to particular(second) category
 
 if the category of comedy "Joker" (2019) is divided into "Black Comedy" and "Just Comedy."
 
